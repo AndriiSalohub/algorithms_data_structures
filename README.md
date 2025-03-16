@@ -18,6 +18,7 @@ This repository contains implementations of various advanced algorithms and data
   - Implementation using Range Minimum Query (RMQ)
   - Euler tour preprocessing method
   - Multiple implementations for comparison
+  - Implementation for Sparse Table data structure
 
 - **Dynamic Programming**:
 
