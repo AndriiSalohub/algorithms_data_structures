@@ -19,6 +19,7 @@ This repository contains implementations of various advanced algorithms and data
   - Euler tour preprocessing method
   - Multiple implementations for comparison
   - Implementation for Sparse Table data structure
+  - Tarjan's LCA algorithm using DSU with DFS
 
 - **Dynamic Programming**:
 
@@ -29,10 +30,12 @@ This repository contains implementations of various advanced algorithms and data
 
   - Disjoint Set (Union-Find) implementation
   - Various graph traversal and analysis techniques
+  - Link/Cut Tree for dynamic tree operations
 
 - **Range Queries**:
   - Sqrt Decomposition for efficient range queries
   - Implementation of data structures for quick range operations
+  - Farach-Colton & Bender RMQ algorithm
 
 ## How to Use
 
